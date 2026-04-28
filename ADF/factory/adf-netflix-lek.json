@@ -1,0 +1,15 @@
+{
+	"name": "adf-netflix-lek",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e44ff85-ccda-4209-b26a-54758e73d9bc",
+		"tenantId": "44567ccc-5b32-44a5-9654-5804cab7e7ef"
+	}
+}
